@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ferheredia99@gmail.com
+	name = Ferdi Heredia
